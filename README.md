@@ -6,8 +6,7 @@
 **English (United States)** | [简体中文（中国）](./README_zh-Hans-CN.md)
 
 > 🔥 ***Flammenwerfer Plugin***, where ❄️ ***Frosty*** meets the dance of inferno.
-
-Flammenwerfer Plugin is a [Frosty Toolsuite v1](https://github.com/CadeEvs/FrostyToolsuite) plugin, ported from [flammenwerfer](https://github.com/BF1CHS/flammenwerfer/), a tool for editing Frostbite's FsLocalization data. The goal: the next-gen of Frosty modding experiences, an essential plugin for everyone, and there will be no more language barriers.
+General plugin for [Frosty Toolsuite v1](https://github.com/CadeEvs/FrostyToolsuite), as a part of my [Frosty v1 Localization Experience](https://github.com/users/shoushou1106/projects/3). Ported from [flammenwerfer](https://github.com/BF1CHS/flammenwerfer/), a tool for editing Frostbite's FsLocalization data. The goal will be an essential plugin for everyone, and there will be no more language barriers.
 
 ## Testers Wanted
 
